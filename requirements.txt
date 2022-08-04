@@ -1,5 +1,4 @@
 numpy
-libgl1-mesa-glx
 opencv-python
 pandas
 matplotlib
