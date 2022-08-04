@@ -1,5 +1,5 @@
 numpy
-python3-opencv
+libgl1
 opencv-python
 pandas
 matplotlib
